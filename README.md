@@ -1,4 +1,4 @@
-# OrganizarPassageirosAvi-o_ConsoleAPP
+# OrganizarPassageirosAviao_ConsoleAPP
 Aplicativo do Console, feito para gerir passageiros em um avião
 
 ## ✦ Sobre
